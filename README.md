@@ -8,7 +8,7 @@ Welcome to our exciting ecommerce venture! Our project, "SF Ecommerce Shopping,"
 
 # Project Details
 1. Project Demo URL: [https://ssfcom.z29.web.core.windows.net/]
-2. Demo Video URL: [https://youtu.be/4MacUycqWbU]
+2. Demo Video URL: [https://youtu.be/S2tAY4gFhdE]
 3. Github Repository URL: [https://github.com/Navyanavika19/sf-ecommerce]
 4. Industry: E-Commerce
 
