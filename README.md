@@ -7,10 +7,10 @@
 Welcome to our exciting ecommerce venture! Our project, "SF Ecommerce Shopping," is designed to redefine your online shopping experience. With a user-friendly interface, a vast array of products, and seamless navigation, we aim to make your shopping journey effortless and enjoyable. Stay tuned for a hassle-free and delightful way to explore and purchase your favirote e items!
 
 # Project Details
-Project Demo URL: [https://ssfcom.z29.web.core.windows.net/]
-Demo Video URL: [https://youtu.be/3IQLOgZhILc]
-Github Repository URL: [https://github.com/Satyanaidu21/Mycode.git]
-Industry: E-Commerce
+ Project Demo URL: [https://ssfcom.z29.web.core.windows.net/]
+ Demo Video URL: [https://youtu.be/3IQLOgZhILc]
+ Github Repository URL: [https://github.com/Satyanaidu21/Mycode.git]
+ Industry: E-Commerce
 
 # Azure Services Used
 # Core Azure Service:
