@@ -44,6 +44,6 @@ Azure storage: Azure Storage serves as the backbone for our online shopping webs
 Language service: The service provides a range of features that enhance productivity, code quality, and collaboration. It plays a central role in creating a developer-friendly environment and facilitating efficient software development workflows. Azure bot service: Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots are software applications designed to interact with users through natural language conversations. Azure Backup Service: Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
 
 # Screenshots:
-Storage service: Description: Storage services encompass a range of solutions designed to store, organize, and manage data efficiently. These services can vary in terms of scalability, performance, accessibility, and features, catering to diverse requirements across industries.
+*Storage service*: Description: Storage services encompass a range of solutions designed to store, organize, and manage data efficiently. These services can vary in terms of scalability, performance, accessibility, and features, catering to diverse requirements across industries.
 ****
 
